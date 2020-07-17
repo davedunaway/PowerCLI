@@ -1,1 +1,1 @@
-# PowerCLI
+Just a collection of useful VMware PowerCLI Scripts I am not a coder or a scripter by any menas. I'm using this as a repository for snippets that I've found useful over the years. Many of these scripts or snippets have been found on blogs, forums or KB articles. None of them were originally created by me. I've simply decided to store them here instead of Evernote. If you find your script on this page, please let me know so I can give credit where it's due. Feel free to contribute. Use at your own risk.
